@@ -1,0 +1,1 @@
+Hello! This is a project where we simulate market ups and downs and try to simulate the fluctuations for the near future.
